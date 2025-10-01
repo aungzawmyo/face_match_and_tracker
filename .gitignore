@@ -1,0 +1,9 @@
+build/
+dist/
+__pycache__/
+FaceScannerPro_Portable/
+*.zip
+*.tar.gz 
+FaceScannerPro_DEPLOYMENT/
+facescanner.log
+dist_new/
